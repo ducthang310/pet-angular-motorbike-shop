@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"styles.css","sourcesContent":[]}
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAA;EACE,wBAAuB;EACvB,kBAAiB;CAClB;;AAED;EACE,mBAAkB;CACnB","file":"styles.css","sourcesContent":[".navbar-right {\n  float: right !important;\n  margin-right: 5px;\n}\n\n.navbar-text {\n  margin-right: 10px;\n}"]}

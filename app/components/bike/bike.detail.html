@@ -1,0 +1,18 @@
+<div class="container">
+    <ng-include src="'components/menu/menu.html'"></ng-include>
+
+    <div class="col-md-6">
+        <img alt="100%x180" ng-src="assets/images/{{bike.image}}" data-holder-rendered="true" style="height: auto; width: 100%; display: block;">
+    </div>
+
+    <div class="col-md-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">{{bike.name}} </div>
+            <div class="panel-body"><strong>Specs: </strong> {{bike.key_specs}}</div>
+            <div class="panel-body"><strong>Descriptions: </strong> {{bike.descriptions}}</div>
+            <div class="panel-body">
+                <strong>Price:  </strong><span class="label label-primary" style="padding: 10px">${{bike.price}}</span>
+            </div>
+        </div>
+    </div>
+</div>

@@ -3,7 +3,7 @@
 
     <div class="bs-example" data-example-id="simple-thumbnails">
         <div class="row">
-            <div class="col-md-3 col-xs-6" ng-repeat="bike in bikes">
+            <div class="col-md-3 col-xs-6" ng-repeat="bike in bikes | filter:categoryFilterFn">
                 <a ui-sref="bike_detail({bikeId: bike.id})" class="thumbnail">
                     <img alt="100%x180" ng-src="assets/images/{{bike.image}}" data-holder-rendered="true" style="height: 180px; width: 100%; display: block;">
                 </a>

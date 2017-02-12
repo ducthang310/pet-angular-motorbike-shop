@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "2013 Kawasaki Ninja ZX-14R",
+    "image": "bike-1.jpg",
+    "type": "sport",
+    "categories": [1,2],
+    "price": "14999",
+    "descriptions": "Kawasaki introduced the ZX-14R in 2008 with one purpose: to beat the Suzuki Hayabusa at its own game. Did it? Not immediately, but with its 2012 redesign, it finally toppled the former king of the mountain. It's currently the most powerful and fastest mass-produced motorcycle in the world. If you're headed to the dragstrip, this may be the bike for you.",
+    "key_specs": "1,441 cc four-stroke inline-four engine, 200 hp, wet weight of 584.3 lbs., traction control (which you can turn off), slipper clutch, optional ABS, adjustable suspension, dual radial-mounted four-piston Nissin calipers"
+  },
+  {
+    "id": 2,
+    "name": "2013 Suzuki Hayabusa",
+    "image": "bike-2.jpg",
+    "type": "sport",
+    "categories": [1,2],
+    "price": "14399",
+    "key_specs": "1340cc four-stroke inline four engine, fully fueled weight of 581 lbs. with all fluids onboard, front Brembo radial-mounted four-piston monobloc calipers, ABS",
+    "descriptions": "Suzuki's Hayabusa design hasn't changed much in the past few years. It's no longer the fastest, biggest, meanest kid on the block, either. But it's an eye-catching bike, and it's certainly no drag at the dragstrip. Who buys a bike based solely on performance numbers, anyway? Buying a bike is at least partially an emotional choice. If the looks of the Hayabusa move you, head to a Suzuki dealer right now."
+  },
+  {
+    "id": 3,
+    "name": "2013 Ducati 1199 Panigale R",
+    "image": "bike-3.jpg",
+    "type": "sport",
+    "categories": [2,3],
+    "price": "29995",
+    "key_specs": "1198cc V-twin four-stroke Superquadro engine, 195 hp, weight of 419 lb. fully fueled and with all fluids onboard, slipper clutch, 43mm Ohlins NIX30 front fork, Ohlins TTX36 rear suspension, Brembo four-piston M50 monobloc radial-mounted front calipers, titanium connecting rods, lightened flywheel, four-position swingarm pivot, Termignoni exhaust, forged Marchesini wheels, ABS, Ohlins/Ducati Electronic Suspension System, Ducati Quick Shift, Ducati Traction Control, GPS Ducati Data Acquisition System",
+    "descriptions": "Race homologation rules exist for the FIM World Superbike (WSBK) series, in which Ducati currently races the Panigale. For that reason, if you like the 1199 Panigale R, you should really thank 2011 WSBK championship winner Carlos Checa. Ducati gave the 2013 Panigale more torque lower down in the rev range. According to Ducati-provided dyno charts, there is 18% more torque at 125 mph in sixth gear as compared to the standard and S versions. The speedometer stops at the universally-agreed-upon 186 mph, but the limiter doesn't kick in until you hit 202 mph -- and yes, that is an achievable number on a track, which is where the R belongs. Only 250 of these will make it to U.S. shores, though."
+  },
+  {
+    "id": 4,
+    "name": "2012 Erik Buell Racing 1190RS",
+    "image": "bike-4.jpg",
+    "type": "sport",
+    "categories": [1,3],
+    "price": "39995",
+    "key_specs": "1193cc four-stroke V-twin engine, 175 hp, dry weight of 369 lbs., Ohlins fully adjustable suspension, magnesium wheels",
+    "descriptions": "This is a superbike that's U.S. born and raised -- a feat in itself. The EBR team reworked a Rotax Helicon 1125cc engine, which they bumped up by adding high-compression forged pistons, forged connecting rods, a lightened crankshaft, larger valves and race cams -- race technology at work. The company only plans to make 100 of them in total, so you'd better order while you can."
+  },
+  {
+    "id": 5,
+    "name": "2013 Bimota Tesi 3D E",
+    "image": "bike-5.jpg",
+    "type": "sport",
+    "categories": [1,2],
+    "price": "36995",
+    "key_specs": "1079cc four-stroke L-twin engine, dry weight of 370 lbs., carbon fiber everywhere, top-shelf components on machines that are hand-built to order",
+    "descriptions": "The first thing you'll notice upon looking at the Tesi 3D E is that it doesn't have a traditional front fork. Instead, it's hub-steered, and has swingarms in both the front and the rear. This means the handling takes some getting used to, but you don't experience the same sort of diving that you get with bikes with conventional front forks. Powered by an air-cooled Ducati DS1100 L-Twin engine, it sounds great and has loads of torque and power. More than that, the Tesi 3D E is just a master class in the marvels of modern engineering. There's honestly nothing else like it. If you're lucky enough to get one, it's pretty likely you'll be the only one on a Tesi 3D at your local bike night."
+  },
+  {
+    "id": 6,
+    "name": "2013 Ducati 848 EVO Corse SE",
+    "image": "bike-6.jpg",
+    "type": "sport",
+    "categories": [1,2,3],
+    "price": "14995",
+    "key_specs": "849cc four-stroke V-twin engine, 138 hp, dry weight of 368 lbs., aluminum gas tank, Ducati Traction Control, Ducati Quick Shift, fully adjustable Ohlins suspension, 330mm front brake rotors, dual radial-mounted Brembo four-piston calipers in front, Corse Test Team graphics",
+    "descriptions": "Looks good, sounds better, goes fast, stops well. What more could you ask for? The regular 848 EVO doesn't have traction control, a quick shifter, or that gorgeous paint job."
+  },
+  {
+    "id": 7,
+    "name": "2016 Ducati Scrambler Icon",
+    "image": "bike-7.jpg",
+    "type": "sport",
+    "categories": [1],
+    "price": "8895",
+    "key_specs": "The 2016 Ducati Scrambler Icon runs on an 803cc L-Twin cylinder for 75hp, an aluminium finish for belt covers and heat guard. It utilizes a single Kayaba shock absorber, Monobloc Brembo caliper and standard Anti-Lock Braking System(ABS). ",
+    "descriptions": "The 2016 Ducati Scrambler Icon comes with a comfortable riding position and steel teardrop tank with interchangeable aluminium side panels. Other features include a wide handlebar, an LED headlight and Dual Sport wheels. A passenger grab rail is included, and rides on the 10 spoke alloy wheels, is available in two colors, the ’62 Yellow and Ducati Red and has a low seat height of 31.1 inches."
+  },
+  {
+    "id": 8,
+    "name": "2015 Harley-Davidson Sportster 883 Low – XL883L",
+    "image": "bike-8.jpg",
+    "type": "sport",
+    "categories": [1,2],
+    "price": "8249",
+    "key_specs": "The Harley-Davisdon XL 883L SuperLow comes with quite a few features that make it even more appealing than it just being a Harley-Davidson.",
+    "descriptions": "It has the option of adding the Anti-Lock Braking System (ABS), integrated electrical wiring system, side covers that match the bodywork and a low solo seat that still allows you to reach the handlebar. The 4.5 gallon fuel tank on the Harley-Davidson XL 883L SuperLow will allow you to run getting approximately 51 miles per gallon allowing you go farther between filling up while out on the roads."
+  },
+  {
+    "id": 9,
+    "name": "2016 BMW F 800 GT",
+    "image": "bike-9.jpg",
+    "type": "sport",
+    "categories": [2,3],
+    "price": "12095",
+    "key_specs": "The 2016 BMW F 800 GT model is capable of more than just riding through town, you can also take it out on the open road. The 798cc four stroke parallel twin engine is capable of producing 90 horsepower with the twist of the throttle.",
+    "descriptions": "The suspension is said to have a longer rear wheel swing arm and stiffer suspension. The 2016 BMW F 800 GT has an adjustable seat height for optimal comfort with an adjustable windshield that should divert the wind away from your body. To stop the F 800 GT, not only are the disc brakes enough, BMW has added the dual channel Anti-Lock Braking System (ABS) for safety measures."
+  },
+  {
+    "id": 10,
+    "name": "2017 Moto Guzzi V7 Stone II",
+    "image": "bike-10.jpg",
+    "type": "sport",
+    "categories": [1,3],
+    "price": "9000",
+    "key_specs": "Last year Guzzi upgraded the V7 enough to warrant the 'II' at the end of its name. What you get in this new V7 is a roomier ride, thanks to a half-inch lower seat and an engine pushed forward in the chassis.",
+    "descriptions": "Speaking of the engine, there's a new 750 cc, air-cooled V-Twin linked to a six-speed transmission replacing the old five. And this is no high-strung sportbike powertrain. So here's a bike that always relies on torque and gearing to get riders up to speed rather than top end horsepower. The V7 is no sportbike but that marvelous V-Twin certainly sounds sweet, and The V7 Stone might have a foothold in the past, but it's actually loaded with tech. Guzzi includes ABS as well as traction control as standard equipment, which turns this good deal into a great one."
+  }
+]

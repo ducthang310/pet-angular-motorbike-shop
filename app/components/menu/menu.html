@@ -1,0 +1,14 @@
+    <nav class="navbar navbar-inverse" ng-controller="MenuController">
+        <ul class="nav navbar-nav">
+            <li><a ui-sref="home">Home</a></li>
+            <li class="" ng-repeat="cat in categories" ng-class="checkCurrentCategory(cat.id)"><a ng-href="{{getCategoryLink(cat.id)}}">{{cat.name}}</a></li>
+        </ul>
+        <div class="navbar-right">
+            <div class="navbar-text">
+                <b>Your cart:</b>
+                {{itemCount()}} item(s),
+                {{total() | currency}}
+            </div>
+            <a class="btn btn-default navbar-btn">Checkout</a>
+        </div>
+    </nav>
