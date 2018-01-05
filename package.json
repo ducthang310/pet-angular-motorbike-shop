@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "cd app && heroku scale web=0 worker=1"
+    "start": "cd app && heroku scale web=0 worker=1",
+    "build": "npm install"
   },
   "author": "",
   "license": "ISC",
